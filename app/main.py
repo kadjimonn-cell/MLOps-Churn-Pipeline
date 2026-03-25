@@ -19,3 +19,4 @@ def predict(feature1: float, feature2: float):
     return {
         "prediction": int(prediction[0])
     }
+uvicorn app.main:app --reload
