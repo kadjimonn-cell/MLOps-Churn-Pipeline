@@ -24,7 +24,7 @@ This project implements an end-to-end MLOps pipeline for predicting customer chu
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mlops-churn-pipeline.git
-cd mlops-churn-pipeline
-pip install -r requirements.txt
-python src/train.py
+* git clone: https://github.com/kadjimonn-cell/MLOps-Churn-Pipeline.git
+* cd mlops-churn-pipeline
+* pip install -r requirements.txt
+* python src/train.py
