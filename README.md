@@ -12,7 +12,15 @@ This project implements an end-to-end MLOps pipeline for predicting customer chu
 - FastAPI deployment
 - Workflow orchestration (Airflow)
 
-## Setup
+## Deployment Instructions
+### 🔹 Final Version:
+1. Clone the repository  
+2. Install dependencies  
+3. Train the model  
+4. Run FastAPI server  
+5. Access API at: http://localhost:8000
+   
+### Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/mlops-churn-pipeline.git
