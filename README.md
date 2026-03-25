@@ -1,6 +1,6 @@
 # MLOps Churn Prediction Pipeline
 School Project End-to-End MLOps Pipeline
-# mlops-churn-pipeline
+## mlops-churn-pipeline
 
 ## Overview
 This project implements an end-to-end MLOps pipeline for predicting customer churn.
@@ -19,8 +19,9 @@ This project implements an end-to-end MLOps pipeline for predicting customer chu
 3. Train the model  
 4. Run FastAPI server  
 5. Access API at: http://localhost:8000
+6. Project is working successfully.
    
-### Setup
+## Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/mlops-churn-pipeline.git
