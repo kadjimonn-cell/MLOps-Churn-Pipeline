@@ -1,4 +1,4 @@
-# MLOps Churn Prediction Pipeline: Final Project Presentation April 29, 2026
+## MLOps Churn Prediction Pipeline: Final Project Presentation April 29, 2026
 School Final Project End-to-End MLOps Pipeline
 ## mlops-churn-pipeline
 
