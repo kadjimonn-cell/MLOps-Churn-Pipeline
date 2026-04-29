@@ -1,4 +1,4 @@
-# training script
+# training script for school project
 from fastapi import FastAPI
 import joblib
 
