@@ -1,8 +1,8 @@
 # MLOps Churn Prediction Pipeline
-School Project End-to-End MLOps Pipeline
+School Final Project End-to-End MLOps Pipeline
 ## mlops-churn-pipeline
 
-## Overview
+## Overview: Final Project Presentation April 29, 2026
 This project implements an end-to-end MLOps pipeline for predicting customer churn.
 
 ## Features
@@ -21,7 +21,7 @@ This project implements an end-to-end MLOps pipeline for predicting customer chu
 5. Access API at: http://localhost:8000
 6. Project is working successfully.
    
-## Setup
+### Setup
 
 ```bash
 * git clone: https://github.com/kadjimonn-cell/MLOps-Churn-Pipeline.git
