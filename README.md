@@ -1,8 +1,8 @@
-# MLOps Churn Prediction Pipeline
+# MLOps Churn Prediction Pipeline: Final Project Presentation April 29, 2026
 School Final Project End-to-End MLOps Pipeline
 ## mlops-churn-pipeline
 
-## Overview: Final Project Presentation April 29, 2026
+## Overview: 
 This project implements an end-to-end MLOps pipeline for predicting customer churn.
 
 ## Features
