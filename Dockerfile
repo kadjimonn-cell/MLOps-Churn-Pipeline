@@ -1,4 +1,4 @@
-# training script
+# training script for school project
 # Use official Python image
 FROM python:3.9
 
