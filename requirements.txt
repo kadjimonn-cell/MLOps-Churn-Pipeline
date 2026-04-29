@@ -1,4 +1,4 @@
-# training script
+# training script for school project
 pandas
 scikit-learn
 fastapi
